@@ -1,0 +1,20 @@
+@charset "utf-8";
+.container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+header h1 {
+    color: #5822C7;
+    text-align: center;
+}
+nav {
+    text-align: center;
+}
+article h3 {
+    background-color: #D3F7FB;
+    text-shadow: 0px 0px #2B3F58;
+    text-align: center;
+    border-radius: 10px;
+    color: #29355E;
+}
